@@ -33,7 +33,7 @@ You can clone this repo using the command
 $ git clone https://github.com/halladj/uni-live-server
 ```
 
-after cloning the repo run this command inside the rep to install the dependencies
+after cloning the repo run this command inside the repo to install the dependencies
 
 ```
 $ npm install
