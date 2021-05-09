@@ -10,12 +10,12 @@ These instructions will get you a copy of the project up and running on your loc
 
 you need to have node and npm installed on your machine in order to use this live server.
 
-to in install node on linux using snap run
+to install node on linux using snap run
 ```
 $ sudo snap install node 
 ```
 
-to in install node on mac run
+to install node on mac run
 ```
 $ brew install node
 ```
