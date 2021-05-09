@@ -1,0 +1,19 @@
+{
+  "name": "uni-live-server",
+  "version": "1.0.0",
+  "description": "provides a lightweight live server for local development",
+  "main": "index.html",
+  "author": "halladj",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon -e js,json,mjs ./server.js localhost 3000"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "connect-livereload": "^0.6.1",
+    "livereload": "^0.9.3",
+    "nodemon": "^2.0.7"
+  }
+}
