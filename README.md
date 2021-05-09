@@ -20,7 +20,7 @@ to in install node on mac run
 $ brew install node
 ```
 to install node on windows just check the official websit
-[PurpleBooth](https://nodejs.org/en/download/)
+[NodeJS](https://nodejs.org/en/download/)
 
 
 ### Installing
@@ -41,7 +41,7 @@ $ npm install
 
 ## Authors
 
-* **HALLADJ** - *Initial work* - [PurpleBooth](https://github.com/halladj)
+* **HALLADJ** - *Initial work* - [HALLADJ](https://github.com/halladj)
 
 
 ## License
