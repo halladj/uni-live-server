@@ -38,9 +38,17 @@ after cloning the repo run this command inside the repo to install the dependenc
 ```
 $ npm install
 ```
+  or
+```
+$ npm install
+```
 ### Using it
 After installing the dependencies all you need to do is to run the following command to spin the server
 
+```
+$ npm run dev
+```
+  or
 ```
 $ npm run dev
 ```
