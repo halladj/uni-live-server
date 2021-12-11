@@ -40,7 +40,7 @@ $ npm install
 ```
   or
 ```
-$ npm install
+$ yarn
 ```
 ### Using it
 After installing the dependencies all you need to do is to run the following command to spin the server
@@ -50,7 +50,7 @@ $ npm run dev
 ```
   or
 ```
-$ npm run dev
+$ yarn dev
 ```
 ## Authors
 
